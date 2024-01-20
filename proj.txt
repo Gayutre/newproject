@@ -1,2 +1,4 @@
 its a text file.
 name of file proj.text
+seleniumlib
+oslib
