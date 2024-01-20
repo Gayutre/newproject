@@ -1,1 +1,2 @@
-its a text file
+its a text file.
+name of file proj.text
